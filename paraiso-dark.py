@@ -26,7 +26,7 @@ BLUE = "#06b6ef"
 PURPLE = "#815ba4"
 
 
-class base16_paraso_dark(Style):
+class paraiso_dark(Style):
 
     default_style = ''
 
