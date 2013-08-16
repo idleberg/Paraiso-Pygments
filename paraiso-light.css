@@ -1,11 +1,10 @@
 /*
+    Name:     Paraíso (light)
+    Author:   Jan T. Sott
+    License:  Creative Commons Attribution-ShareAlike 3.0 Unported License
+    URL:      https://github.com/idleberg/Paraiso-Pygments
 
-    Name:       Paraíso (Light)
-    Author:     Jan T. Sott
-
-    Pygments template by Jan T. Sott (https://github.com/idleberg)
-    Created with Base16 Builder by Chris Kempson (https://github.com/chriskempson/base16-builder)
-
+    Inspired by the art of Rubens LP (http://www.rubenslp.com.br)
 */
 .syntax .hll { background-color: #b9b6b0 }
 .syntax  { background: #e7e9db; color: #2f1e2e }

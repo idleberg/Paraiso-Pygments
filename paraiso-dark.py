@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Paraíso (Dark)
-by Jan T. Sott
+Name:       Paraíso (dark)
+Author:     Jan T. Sott
+License:    Creative Commons Attribution-ShareAlike 3.0 Unported License
+URL:        https://github.com/idleberg/Paraiso-Pygments
 
-Pygments template by Jan T. Sott (https://github.com/idleberg)
-Created with Base16 Builder by Chris Kempson (https://github.com/chriskempson/base16-builder)
+Inspired by the art of Rubens LP (http://www.rubenslp.com.br)
 """
 
 from pygments.style import Style
