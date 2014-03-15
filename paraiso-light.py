@@ -2,7 +2,7 @@
 """
 Name:       Paraíso (light)
 Author:     Jan T. Sott
-License:    Creative Commons Attribution-ShareAlike 3.0 Unported License
+License:    Creative Commons Attribution-ShareAlike 4.0 Unported License
 URL:        https://github.com/idleberg/Paraiso-Pygments
 
 Inspired by the art of Rubens LP (http://www.rubenslp.com.br)
